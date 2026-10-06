@@ -1,0 +1,1001 @@
+order_id,date,product,category,quantity,unit_price,city
+1,2026-04-22,Keyboard,Accessories,2,45,Agadir
+2,2026-10-01,Mouse,Accessories,3,25,Agadir
+3,2026-09-08,Smartphone,Electronics,4,500,Rabat
+4,2026-05-31,Laptop,Electronics,4,750,Marrakech
+5,2026-04-28,Office Chair,Furniture,3,180,Tangier
+6,2026-08-18,Monitor,Electronics,4,220,Oujda
+7,2026-02-28,Monitor,Electronics,1,220,Oujda
+8,2026-09-22,Office Chair,Furniture,3,180,Tangier
+9,2026-09-27,Keyboard,Accessories,1,45,Fes
+10,2026-03-16,Office Chair,Furniture,3,180,Fes
+11,2026-05-16,Headphones,Accessories,2,80,Marrakech
+12,2026-08-27,Desk,Furniture,3,250,Casablanca
+13,2026-03-08,Webcam,Accessories,5,60,Oujda
+14,2026-03-16,Tablet,Electronics,3,300,Rabat
+15,2026-08-31,Tablet,Electronics,2,300,Oujda
+16,2026-08-03,Tablet,Electronics,4,300,Agadir
+17,2026-04-12,Laptop,Electronics,2,750,Casablanca
+18,2026-01-30,Webcam,Accessories,3,60,Agadir
+19,2026-01-11,Webcam,Accessories,5,60,Agadir
+20,2026-04-05,Headphones,Accessories,3,80,Casablanca
+21,2026-01-06,Headphones,Accessories,1,80,Rabat
+22,2026-08-21,Headphones,Accessories,1,80,Tangier
+23,2026-06-25,Mouse,Accessories,3,25,Oujda
+24,2026-09-23,Keyboard,Accessories,2,45,Rabat
+25,2026-09-11,Webcam,Accessories,5,60,Oujda
+26,2026-01-01,Mouse,Accessories,1,25,Casablanca
+27,2026-09-01,Monitor,Electronics,2,220,Fes
+28,2026-09-02,Laptop,Electronics,2,750,Marrakech
+29,2026-05-22,Desk,Furniture,5,250,Fes
+30,2026-09-21,Monitor,Electronics,5,220,Fes
+31,2026-02-22,Smartphone,Electronics,4,500,Marrakech
+32,2026-01-29,Desk,Furniture,5,250,Fes
+33,2026-04-26,Webcam,Accessories,2,60,Casablanca
+34,2026-01-13,Tablet,Electronics,2,300,Marrakech
+35,2026-03-03,Office Chair,Furniture,3,180,Agadir
+36,2026-03-20,Office Chair,Furniture,2,180,Agadir
+37,2026-06-22,Desk,Furniture,4,250,Fes
+38,2026-04-03,Mouse,Accessories,2,25,Casablanca
+39,2026-06-24,Tablet,Electronics,5,300,Rabat
+40,2026-04-22,Desk,Furniture,2,250,Rabat
+41,2026-01-10,Office Chair,Furniture,3,180,Tangier
+42,2026-07-26,Laptop,Electronics,5,750,Fes
+43,2026-01-19,Webcam,Accessories,3,60,Marrakech
+44,2026-02-19,Webcam,Accessories,3,60,Agadir
+45,2026-04-18,Headphones,Accessories,4,80,Fes
+46,2026-04-13,Laptop,Electronics,3,750,Tangier
+47,2026-08-14,Headphones,Accessories,4,80,Oujda
+48,2026-09-15,Webcam,Accessories,1,60,Fes
+49,2026-01-11,Office Chair,Furniture,2,180,Agadir
+50,2026-04-26,Office Chair,Furniture,2,180,Tangier
+51,2026-02-24,Desk,Furniture,4,250,Marrakech
+52,2026-05-01,Mouse,Accessories,5,25,Tangier
+53,2026-03-29,Headphones,Accessories,1,80,Casablanca
+54,2026-01-21,Webcam,Accessories,4,60,Casablanca
+55,2026-09-04,Headphones,Accessories,1,80,Rabat
+56,2026-04-16,Desk,Furniture,5,250,Marrakech
+57,2026-02-12,Tablet,Electronics,4,300,Fes
+58,2026-03-24,Laptop,Electronics,3,750,Rabat
+59,2026-07-12,Desk,Furniture,3,250,Fes
+60,2026-05-26,Monitor,Electronics,4,220,Tangier
+61,2026-05-06,Monitor,Electronics,2,220,Oujda
+62,2026-01-09,Desk,Furniture,4,250,Fes
+63,2026-06-11,Headphones,Accessories,1,80,Agadir
+64,2026-04-29,Desk,Furniture,1,250,Agadir
+65,2026-09-08,Tablet,Electronics,2,300,Agadir
+66,2026-07-21,Mouse,Accessories,1,25,Marrakech
+67,2026-03-05,Mouse,Accessories,2,25,Agadir
+68,2026-04-18,Monitor,Electronics,2,220,Marrakech
+69,2026-03-03,Webcam,Accessories,1,60,Agadir
+70,2026-02-13,Smartphone,Electronics,2,500,Marrakech
+71,2026-07-08,Laptop,Electronics,5,750,Casablanca
+72,2026-02-02,Desk,Furniture,5,250,Agadir
+73,2026-02-07,Desk,Furniture,2,250,Fes
+74,2026-05-24,Tablet,Electronics,5,300,Rabat
+75,2026-04-28,Smartphone,Electronics,5,500,Marrakech
+76,2026-05-12,Smartphone,Electronics,3,500,Tangier
+77,2026-09-25,Laptop,Electronics,4,750,Marrakech
+78,2026-07-21,Office Chair,Furniture,5,180,Rabat
+79,2026-01-07,Desk,Furniture,2,250,Agadir
+80,2026-08-29,Keyboard,Accessories,2,45,Casablanca
+81,2026-08-10,Keyboard,Accessories,5,45,Fes
+82,2026-04-16,Monitor,Electronics,3,220,Oujda
+83,2026-07-13,Laptop,Electronics,4,750,Fes
+84,2026-04-02,Monitor,Electronics,2,220,Oujda
+85,2026-09-14,Tablet,Electronics,4,300,Rabat
+86,2026-09-20,Laptop,Electronics,3,750,Oujda
+87,2026-07-19,Mouse,Accessories,3,25,Marrakech
+88,2026-09-30,Laptop,Electronics,3,750,Oujda
+89,2026-05-05,Keyboard,Accessories,5,45,Oujda
+90,2026-08-12,Keyboard,Accessories,2,45,Agadir
+91,2026-06-04,Laptop,Electronics,4,750,Oujda
+92,2026-04-29,Smartphone,Electronics,2,500,Tangier
+93,2026-03-25,Webcam,Accessories,4,60,Oujda
+94,2026-03-28,Monitor,Electronics,5,220,Agadir
+95,2026-05-04,Office Chair,Furniture,4,180,Marrakech
+96,2026-01-25,Office Chair,Furniture,2,180,Tangier
+97,2026-03-25,Mouse,Accessories,2,25,Agadir
+98,2026-06-04,Laptop,Electronics,4,750,Fes
+99,2026-09-29,Tablet,Electronics,3,300,Marrakech
+100,2026-07-30,Webcam,Accessories,4,60,Casablanca
+101,2026-06-06,Headphones,Accessories,3,80,Rabat
+102,2026-04-01,Desk,Furniture,1,250,Agadir
+103,2026-08-12,Mouse,Accessories,3,25,Fes
+104,2026-01-13,Mouse,Accessories,4,25,Tangier
+105,2026-02-13,Webcam,Accessories,5,60,Oujda
+106,2026-01-15,Smartphone,Electronics,2,500,Oujda
+107,2026-02-23,Tablet,Electronics,5,300,Rabat
+108,2026-07-28,Laptop,Electronics,5,750,Casablanca
+109,2026-04-10,Keyboard,Accessories,5,45,Fes
+110,2026-08-08,Headphones,Accessories,1,80,Agadir
+111,2026-01-04,Laptop,Electronics,5,750,Casablanca
+112,2026-04-03,Tablet,Electronics,2,300,Rabat
+113,2026-01-30,Smartphone,Electronics,3,500,Tangier
+114,2026-01-02,Tablet,Electronics,2,300,Oujda
+115,2026-07-01,Keyboard,Accessories,4,45,Rabat
+116,2026-08-31,Office Chair,Furniture,1,180,Rabat
+117,2026-08-26,Smartphone,Electronics,3,500,Agadir
+118,2026-07-26,Mouse,Accessories,4,25,Casablanca
+119,2026-03-27,Keyboard,Accessories,5,45,Oujda
+120,2026-06-16,Desk,Furniture,3,250,Agadir
+121,2026-03-27,Office Chair,Furniture,1,180,Fes
+122,2026-05-13,Desk,Furniture,4,250,Rabat
+123,2026-04-04,Smartphone,Electronics,4,500,Tangier
+124,2026-06-06,Tablet,Electronics,1,300,Oujda
+125,2026-04-18,Keyboard,Accessories,5,45,Rabat
+126,2026-03-15,Office Chair,Furniture,3,180,Fes
+127,2026-02-25,Tablet,Electronics,2,300,Fes
+128,2026-07-18,Keyboard,Accessories,4,45,Casablanca
+129,2026-06-20,Smartphone,Electronics,5,500,Oujda
+130,2026-06-29,Mouse,Accessories,4,25,Casablanca
+131,2026-09-25,Webcam,Accessories,5,60,Rabat
+132,2026-02-25,Keyboard,Accessories,5,45,Agadir
+133,2026-03-31,Keyboard,Accessories,3,45,Tangier
+134,2026-02-23,Laptop,Electronics,5,750,Tangier
+135,2026-08-26,Keyboard,Accessories,1,45,Marrakech
+136,2026-06-08,Webcam,Accessories,3,60,Fes
+137,2026-02-21,Office Chair,Furniture,1,180,Rabat
+138,2026-02-05,Tablet,Electronics,2,300,Marrakech
+139,2026-07-14,Mouse,Accessories,1,25,Tangier
+140,2026-01-02,Webcam,Accessories,3,60,Rabat
+141,2026-09-07,Smartphone,Electronics,5,500,Casablanca
+142,2026-01-10,Office Chair,Furniture,2,180,Agadir
+143,2026-05-15,Monitor,Electronics,3,220,Agadir
+144,2026-03-23,Desk,Furniture,2,250,Oujda
+145,2026-06-01,Webcam,Accessories,1,60,Fes
+146,2026-05-11,Laptop,Electronics,4,750,Tangier
+147,2026-04-09,Tablet,Electronics,4,300,Tangier
+148,2026-04-20,Tablet,Electronics,1,300,Casablanca
+149,2026-03-09,Office Chair,Furniture,2,180,Tangier
+150,2026-02-16,Smartphone,Electronics,4,500,Tangier
+151,2026-02-22,Office Chair,Furniture,2,180,Oujda
+152,2026-07-27,Tablet,Electronics,1,300,Marrakech
+153,2026-09-25,Smartphone,Electronics,2,500,Agadir
+154,2026-08-25,Tablet,Electronics,5,300,Marrakech
+155,2026-01-24,Office Chair,Furniture,1,180,Casablanca
+156,2026-05-29,Keyboard,Accessories,5,45,Casablanca
+157,2026-09-09,Monitor,Electronics,4,220,Agadir
+158,2026-01-01,Tablet,Electronics,2,300,Casablanca
+159,2026-04-04,Tablet,Electronics,1,300,Rabat
+160,2026-03-13,Laptop,Electronics,5,750,Marrakech
+161,2026-01-26,Keyboard,Accessories,2,45,Oujda
+162,2026-06-20,Webcam,Accessories,2,60,Agadir
+163,2026-01-03,Tablet,Electronics,2,300,Oujda
+164,2026-02-12,Keyboard,Accessories,5,45,Fes
+165,2026-06-06,Headphones,Accessories,5,80,Tangier
+166,2026-08-25,Mouse,Accessories,3,25,Marrakech
+167,2026-04-26,Monitor,Electronics,5,220,Fes
+168,2026-01-06,Smartphone,Electronics,4,500,Fes
+169,2026-04-21,Keyboard,Accessories,3,45,Oujda
+170,2026-05-30,Monitor,Electronics,5,220,Marrakech
+171,2026-09-09,Webcam,Accessories,5,60,Casablanca
+172,2026-03-22,Headphones,Accessories,5,80,Rabat
+173,2026-09-29,Monitor,Electronics,1,220,Fes
+174,2026-01-29,Laptop,Electronics,2,750,Tangier
+175,2026-07-30,Laptop,Electronics,3,750,Agadir
+176,2026-09-23,Mouse,Accessories,5,25,Marrakech
+177,2026-09-11,Office Chair,Furniture,5,180,Fes
+178,2026-09-20,Tablet,Electronics,1,300,Agadir
+179,2026-08-07,Smartphone,Electronics,2,500,Agadir
+180,2026-06-10,Headphones,Accessories,4,80,Tangier
+181,2026-05-02,Keyboard,Accessories,1,45,Fes
+182,2026-02-22,Headphones,Accessories,5,80,Rabat
+183,2026-08-20,Mouse,Accessories,1,25,Fes
+184,2026-07-26,Monitor,Electronics,3,220,Tangier
+185,2026-07-10,Desk,Furniture,2,250,Fes
+186,2026-03-26,Keyboard,Accessories,1,45,Marrakech
+187,2026-05-14,Mouse,Accessories,1,25,Tangier
+188,2026-08-16,Tablet,Electronics,1,300,Casablanca
+189,2026-03-13,Mouse,Accessories,3,25,Oujda
+190,2026-07-09,Desk,Furniture,1,250,Tangier
+191,2026-04-23,Laptop,Electronics,4,750,Tangier
+192,2026-09-28,Monitor,Electronics,4,220,Casablanca
+193,2026-07-30,Keyboard,Accessories,4,45,Casablanca
+194,2026-05-04,Tablet,Electronics,4,300,Fes
+195,2026-05-01,Tablet,Electronics,3,300,Agadir
+196,2026-02-27,Headphones,Accessories,1,80,Casablanca
+197,2026-06-10,Desk,Furniture,2,250,Oujda
+198,2026-06-06,Smartphone,Electronics,2,500,Agadir
+199,2026-02-22,Smartphone,Electronics,5,500,Tangier
+200,2026-09-03,Desk,Furniture,3,250,Agadir
+201,2026-08-16,Smartphone,Electronics,2,500,Marrakech
+202,2026-09-25,Tablet,Electronics,2,300,Tangier
+203,2026-03-18,Webcam,Accessories,4,60,Marrakech
+204,2026-04-02,Office Chair,Furniture,3,180,Agadir
+205,2026-07-25,Mouse,Accessories,2,25,Marrakech
+206,2026-06-09,Headphones,Accessories,4,80,Oujda
+207,2026-09-02,Webcam,Accessories,2,60,Oujda
+208,2026-09-17,Keyboard,Accessories,3,45,Tangier
+209,2026-06-22,Webcam,Accessories,1,60,Agadir
+210,2026-04-16,Laptop,Electronics,5,750,Marrakech
+211,2026-05-04,Keyboard,Accessories,5,45,Casablanca
+212,2026-09-26,Mouse,Accessories,2,25,Fes
+213,2026-09-28,Laptop,Electronics,5,750,Oujda
+214,2026-09-30,Smartphone,Electronics,4,500,Oujda
+215,2026-05-24,Smartphone,Electronics,2,500,Marrakech
+216,2026-04-02,Monitor,Electronics,2,220,Marrakech
+217,2026-07-27,Smartphone,Electronics,3,500,Casablanca
+218,2026-01-18,Keyboard,Accessories,3,45,Agadir
+219,2026-09-12,Headphones,Accessories,2,80,Rabat
+220,2026-07-20,Keyboard,Accessories,4,45,Rabat
+221,2026-03-12,Mouse,Accessories,2,25,Fes
+222,2026-09-26,Tablet,Electronics,1,300,Tangier
+223,2026-05-01,Office Chair,Furniture,4,180,Casablanca
+224,2026-02-10,Webcam,Accessories,2,60,Agadir
+225,2026-05-18,Webcam,Accessories,5,60,Marrakech
+226,2026-03-15,Headphones,Accessories,1,80,Rabat
+227,2026-02-15,Monitor,Electronics,1,220,Rabat
+228,2026-09-03,Laptop,Electronics,5,750,Tangier
+229,2026-06-10,Monitor,Electronics,3,220,Tangier
+230,2026-01-29,Desk,Furniture,3,250,Agadir
+231,2026-05-30,Keyboard,Accessories,2,45,Rabat
+232,2026-03-07,Desk,Furniture,4,250,Agadir
+233,2026-05-26,Tablet,Electronics,5,300,Marrakech
+234,2026-01-29,Headphones,Accessories,3,80,Marrakech
+235,2026-01-20,Laptop,Electronics,1,750,Oujda
+236,2026-09-22,Webcam,Accessories,3,60,Marrakech
+237,2026-08-13,Headphones,Accessories,4,80,Oujda
+238,2026-07-05,Headphones,Accessories,4,80,Tangier
+239,2026-03-28,Keyboard,Accessories,2,45,Marrakech
+240,2026-02-24,Headphones,Accessories,3,80,Marrakech
+241,2026-04-16,Desk,Furniture,4,250,Casablanca
+242,2026-09-23,Office Chair,Furniture,1,180,Casablanca
+243,2026-08-08,Office Chair,Furniture,3,180,Marrakech
+244,2026-05-07,Office Chair,Furniture,4,180,Fes
+245,2026-09-05,Desk,Furniture,4,250,Oujda
+246,2026-02-18,Monitor,Electronics,3,220,Agadir
+247,2026-01-10,Headphones,Accessories,3,80,Oujda
+248,2026-06-25,Monitor,Electronics,5,220,Casablanca
+249,2026-09-15,Mouse,Accessories,1,25,Casablanca
+250,2026-07-03,Headphones,Accessories,4,80,Tangier
+251,2026-07-04,Laptop,Electronics,4,750,Agadir
+252,2026-08-02,Smartphone,Electronics,3,500,Marrakech
+253,2026-05-10,Desk,Furniture,1,250,Fes
+254,2026-01-03,Mouse,Accessories,5,25,Marrakech
+255,2026-02-16,Headphones,Accessories,5,80,Casablanca
+256,2026-02-27,Tablet,Electronics,4,300,Tangier
+257,2026-09-07,Smartphone,Electronics,3,500,Casablanca
+258,2026-01-16,Smartphone,Electronics,3,500,Rabat
+259,2026-03-23,Keyboard,Accessories,2,45,Rabat
+260,2026-08-13,Monitor,Electronics,1,220,Oujda
+261,2026-05-21,Webcam,Accessories,4,60,Oujda
+262,2026-06-18,Laptop,Electronics,2,750,Fes
+263,2026-01-19,Office Chair,Furniture,1,180,Oujda
+264,2026-02-19,Mouse,Accessories,3,25,Marrakech
+265,2026-04-01,Webcam,Accessories,2,60,Agadir
+266,2026-09-01,Mouse,Accessories,5,25,Marrakech
+267,2026-01-09,Keyboard,Accessories,4,45,Oujda
+268,2026-09-12,Office Chair,Furniture,2,180,Marrakech
+269,2026-01-11,Mouse,Accessories,5,25,Agadir
+270,2026-06-24,Keyboard,Accessories,3,45,Rabat
+271,2026-07-09,Headphones,Accessories,4,80,Fes
+272,2026-02-04,Desk,Furniture,2,250,Tangier
+273,2026-05-22,Desk,Furniture,3,250,Fes
+274,2026-08-27,Smartphone,Electronics,3,500,Agadir
+275,2026-05-31,Mouse,Accessories,4,25,Tangier
+276,2026-01-04,Headphones,Accessories,3,80,Rabat
+277,2026-06-16,Smartphone,Electronics,1,500,Casablanca
+278,2026-07-13,Smartphone,Electronics,1,500,Fes
+279,2026-05-04,Smartphone,Electronics,4,500,Fes
+280,2026-05-07,Desk,Furniture,5,250,Oujda
+281,2026-05-25,Headphones,Accessories,2,80,Oujda
+282,2026-02-20,Headphones,Accessories,4,80,Rabat
+283,2026-03-17,Laptop,Electronics,5,750,Oujda
+284,2026-06-25,Webcam,Accessories,4,60,Marrakech
+285,2026-03-21,Office Chair,Furniture,1,180,Fes
+286,2026-04-28,Headphones,Accessories,3,80,Marrakech
+287,2026-06-20,Office Chair,Furniture,1,180,Fes
+288,2026-03-26,Office Chair,Furniture,5,180,Tangier
+289,2026-07-15,Keyboard,Accessories,4,45,Oujda
+290,2026-09-25,Monitor,Electronics,1,220,Oujda
+291,2026-04-25,Monitor,Electronics,2,220,Casablanca
+292,2026-02-07,Monitor,Electronics,2,220,Agadir
+293,2026-08-29,Office Chair,Furniture,3,180,Oujda
+294,2026-02-08,Keyboard,Accessories,2,45,Casablanca
+295,2026-08-04,Headphones,Accessories,2,80,Fes
+296,2026-03-17,Keyboard,Accessories,4,45,Casablanca
+297,2026-06-09,Office Chair,Furniture,3,180,Agadir
+298,2026-05-05,Laptop,Electronics,5,750,Agadir
+299,2026-08-25,Laptop,Electronics,5,750,Tangier
+300,2026-07-10,Desk,Furniture,5,250,Fes
+301,2026-04-07,Headphones,Accessories,5,80,Marrakech
+302,2026-06-16,Mouse,Accessories,1,25,Marrakech
+303,2026-06-13,Smartphone,Electronics,5,500,Tangier
+304,2026-05-13,Monitor,Electronics,2,220,Fes
+305,2026-07-22,Office Chair,Furniture,4,180,Agadir
+306,2026-04-30,Desk,Furniture,3,250,Oujda
+307,2026-04-30,Desk,Furniture,1,250,Agadir
+308,2026-09-01,Office Chair,Furniture,3,180,Rabat
+309,2026-08-25,Keyboard,Accessories,4,45,Marrakech
+310,2026-08-06,Headphones,Accessories,5,80,Casablanca
+311,2026-07-31,Office Chair,Furniture,4,180,Tangier
+312,2026-03-23,Smartphone,Electronics,1,500,Fes
+313,2026-02-04,Laptop,Electronics,4,750,Oujda
+314,2026-04-22,Desk,Furniture,4,250,Casablanca
+315,2026-03-21,Keyboard,Accessories,4,45,Agadir
+316,2026-02-05,Webcam,Accessories,4,60,Oujda
+317,2026-07-06,Tablet,Electronics,1,300,Marrakech
+318,2026-06-30,Mouse,Accessories,4,25,Agadir
+319,2026-03-21,Keyboard,Accessories,1,45,Oujda
+320,2026-02-22,Webcam,Accessories,2,60,Oujda
+321,2026-01-08,Tablet,Electronics,4,300,Oujda
+322,2026-03-31,Monitor,Electronics,4,220,Casablanca
+323,2026-05-01,Monitor,Electronics,3,220,Marrakech
+324,2026-04-02,Mouse,Accessories,2,25,Agadir
+325,2026-02-08,Desk,Furniture,1,250,Fes
+326,2026-08-28,Laptop,Electronics,5,750,Rabat
+327,2026-09-08,Headphones,Accessories,4,80,Rabat
+328,2026-06-11,Monitor,Electronics,4,220,Oujda
+329,2026-07-22,Smartphone,Electronics,1,500,Tangier
+330,2026-07-22,Webcam,Accessories,1,60,Oujda
+331,2026-03-07,Webcam,Accessories,5,60,Casablanca
+332,2026-04-24,Laptop,Electronics,2,750,Agadir
+333,2026-04-20,Smartphone,Electronics,5,500,Tangier
+334,2026-08-18,Keyboard,Accessories,4,45,Casablanca
+335,2026-07-29,Smartphone,Electronics,4,500,Oujda
+336,2026-08-26,Tablet,Electronics,4,300,Agadir
+337,2026-01-11,Monitor,Electronics,2,220,Fes
+338,2026-09-09,Monitor,Electronics,5,220,Casablanca
+339,2026-06-08,Tablet,Electronics,3,300,Rabat
+340,2026-08-29,Tablet,Electronics,5,300,Fes
+341,2026-09-24,Keyboard,Accessories,3,45,Agadir
+342,2026-02-21,Headphones,Accessories,4,80,Marrakech
+343,2026-06-10,Smartphone,Electronics,4,500,Rabat
+344,2026-03-20,Office Chair,Furniture,5,180,Rabat
+345,2026-10-01,Mouse,Accessories,4,25,Oujda
+346,2026-09-29,Office Chair,Furniture,3,180,Marrakech
+347,2026-04-14,Webcam,Accessories,1,60,Tangier
+348,2026-02-16,Tablet,Electronics,2,300,Casablanca
+349,2026-07-30,Mouse,Accessories,1,25,Oujda
+350,2026-02-03,Laptop,Electronics,3,750,Tangier
+351,2026-08-09,Laptop,Electronics,2,750,Oujda
+352,2026-08-24,Office Chair,Furniture,3,180,Fes
+353,2026-07-07,Mouse,Accessories,4,25,Casablanca
+354,2026-08-29,Keyboard,Accessories,5,45,Casablanca
+355,2026-05-10,Headphones,Accessories,4,80,Casablanca
+356,2026-09-11,Mouse,Accessories,2,25,Fes
+357,2026-08-04,Laptop,Electronics,2,750,Casablanca
+358,2026-01-07,Smartphone,Electronics,1,500,Oujda
+359,2026-08-27,Headphones,Accessories,1,80,Tangier
+360,2026-06-26,Desk,Furniture,1,250,Casablanca
+361,2026-06-04,Keyboard,Accessories,4,45,Agadir
+362,2026-02-21,Headphones,Accessories,3,80,Agadir
+363,2026-09-26,Keyboard,Accessories,2,45,Fes
+364,2026-08-14,Smartphone,Electronics,5,500,Agadir
+365,2026-09-14,Laptop,Electronics,5,750,Tangier
+366,2026-01-03,Keyboard,Accessories,1,45,Marrakech
+367,2026-01-08,Keyboard,Accessories,5,45,Oujda
+368,2026-09-17,Desk,Furniture,5,250,Oujda
+369,2026-09-25,Headphones,Accessories,5,80,Agadir
+370,2026-08-06,Webcam,Accessories,1,60,Tangier
+371,2026-01-30,Keyboard,Accessories,1,45,Tangier
+372,2026-01-18,Keyboard,Accessories,4,45,Oujda
+373,2026-07-22,Smartphone,Electronics,1,500,Rabat
+374,2026-01-16,Headphones,Accessories,4,80,Fes
+375,2026-03-11,Office Chair,Furniture,4,180,Agadir
+376,2026-04-16,Webcam,Accessories,2,60,Marrakech
+377,2026-04-04,Monitor,Electronics,4,220,Casablanca
+378,2026-04-20,Webcam,Accessories,4,60,Marrakech
+379,2026-01-20,Monitor,Electronics,3,220,Agadir
+380,2026-09-19,Tablet,Electronics,2,300,Oujda
+381,2026-02-08,Webcam,Accessories,5,60,Rabat
+382,2026-04-28,Webcam,Accessories,1,60,Oujda
+383,2026-06-27,Laptop,Electronics,5,750,Casablanca
+384,2026-06-09,Smartphone,Electronics,2,500,Rabat
+385,2026-05-09,Tablet,Electronics,1,300,Agadir
+386,2026-09-04,Tablet,Electronics,5,300,Oujda
+387,2026-07-25,Keyboard,Accessories,5,45,Marrakech
+388,2026-06-05,Tablet,Electronics,5,300,Casablanca
+389,2026-08-25,Headphones,Accessories,5,80,Casablanca
+390,2026-09-27,Monitor,Electronics,2,220,Tangier
+391,2026-03-15,Office Chair,Furniture,2,180,Casablanca
+392,2026-02-06,Webcam,Accessories,3,60,Agadir
+393,2026-05-11,Webcam,Accessories,3,60,Rabat
+394,2026-05-19,Webcam,Accessories,3,60,Fes
+395,2026-03-01,Office Chair,Furniture,4,180,Oujda
+396,2026-06-03,Laptop,Electronics,2,750,Rabat
+397,2026-06-14,Keyboard,Accessories,1,45,Marrakech
+398,2026-04-13,Smartphone,Electronics,2,500,Agadir
+399,2026-08-18,Webcam,Accessories,1,60,Rabat
+400,2026-09-12,Office Chair,Furniture,4,180,Fes
+401,2026-01-03,Webcam,Accessories,4,60,Oujda
+402,2026-07-19,Tablet,Electronics,2,300,Marrakech
+403,2026-02-06,Webcam,Accessories,4,60,Rabat
+404,2026-07-19,Headphones,Accessories,4,80,Fes
+405,2026-02-24,Desk,Furniture,4,250,Rabat
+406,2026-05-25,Tablet,Electronics,1,300,Agadir
+407,2026-05-12,Webcam,Accessories,1,60,Rabat
+408,2026-07-02,Webcam,Accessories,4,60,Casablanca
+409,2026-06-27,Mouse,Accessories,4,25,Tangier
+410,2026-02-20,Webcam,Accessories,2,60,Rabat
+411,2026-05-20,Keyboard,Accessories,2,45,Rabat
+412,2026-01-05,Office Chair,Furniture,3,180,Fes
+413,2026-01-19,Monitor,Electronics,1,220,Tangier
+414,2026-04-17,Laptop,Electronics,1,750,Marrakech
+415,2026-01-05,Monitor,Electronics,4,220,Oujda
+416,2026-03-31,Laptop,Electronics,4,750,Casablanca
+417,2026-08-21,Tablet,Electronics,1,300,Marrakech
+418,2026-03-22,Smartphone,Electronics,4,500,Oujda
+419,2026-09-27,Monitor,Electronics,1,220,Casablanca
+420,2026-04-22,Mouse,Accessories,4,25,Oujda
+421,2026-06-07,Keyboard,Accessories,5,45,Casablanca
+422,2026-02-01,Laptop,Electronics,2,750,Oujda
+423,2026-06-14,Smartphone,Electronics,5,500,Oujda
+424,2026-02-24,Laptop,Electronics,4,750,Fes
+425,2026-04-07,Desk,Furniture,2,250,Rabat
+426,2026-08-04,Smartphone,Electronics,5,500,Casablanca
+427,2026-07-05,Monitor,Electronics,5,220,Fes
+428,2026-08-25,Office Chair,Furniture,2,180,Marrakech
+429,2026-03-24,Webcam,Accessories,5,60,Oujda
+430,2026-08-13,Monitor,Electronics,2,220,Rabat
+431,2026-03-29,Office Chair,Furniture,4,180,Oujda
+432,2026-09-13,Office Chair,Furniture,2,180,Tangier
+433,2026-07-24,Office Chair,Furniture,5,180,Oujda
+434,2026-01-03,Mouse,Accessories,4,25,Casablanca
+435,2026-07-18,Office Chair,Furniture,1,180,Oujda
+436,2026-02-15,Mouse,Accessories,3,25,Agadir
+437,2026-06-30,Smartphone,Electronics,2,500,Oujda
+438,2026-07-12,Mouse,Accessories,5,25,Marrakech
+439,2026-09-23,Desk,Furniture,5,250,Rabat
+440,2026-06-14,Tablet,Electronics,2,300,Rabat
+441,2026-06-26,Headphones,Accessories,5,80,Casablanca
+442,2026-04-09,Mouse,Accessories,2,25,Casablanca
+443,2026-01-11,Smartphone,Electronics,1,500,Tangier
+444,2026-06-06,Tablet,Electronics,1,300,Tangier
+445,2026-04-17,Laptop,Electronics,1,750,Agadir
+446,2026-09-24,Monitor,Electronics,3,220,Oujda
+447,2026-06-17,Headphones,Accessories,5,80,Marrakech
+448,2026-02-25,Smartphone,Electronics,1,500,Oujda
+449,2026-07-21,Webcam,Accessories,5,60,Marrakech
+450,2026-01-07,Keyboard,Accessories,5,45,Marrakech
+451,2026-08-02,Monitor,Electronics,5,220,Casablanca
+452,2026-07-08,Smartphone,Electronics,4,500,Marrakech
+453,2026-06-18,Office Chair,Furniture,2,180,Agadir
+454,2026-06-27,Desk,Furniture,4,250,Casablanca
+455,2026-09-02,Desk,Furniture,2,250,Oujda
+456,2026-01-01,Laptop,Electronics,4,750,Oujda
+457,2026-05-10,Keyboard,Accessories,1,45,Marrakech
+458,2026-01-01,Tablet,Electronics,4,300,Casablanca
+459,2026-02-03,Desk,Furniture,5,250,Marrakech
+460,2026-01-10,Laptop,Electronics,4,750,Rabat
+461,2026-06-29,Smartphone,Electronics,2,500,Agadir
+462,2026-01-21,Office Chair,Furniture,2,180,Oujda
+463,2026-06-26,Headphones,Accessories,2,80,Marrakech
+464,2026-04-08,Monitor,Electronics,2,220,Marrakech
+465,2026-07-20,Monitor,Electronics,2,220,Agadir
+466,2026-03-05,Desk,Furniture,2,250,Marrakech
+467,2026-06-23,Keyboard,Accessories,2,45,Oujda
+468,2026-03-29,Headphones,Accessories,2,80,Tangier
+469,2026-06-03,Mouse,Accessories,3,25,Marrakech
+470,2026-02-15,Webcam,Accessories,4,60,Fes
+471,2026-07-10,Mouse,Accessories,5,25,Casablanca
+472,2026-06-12,Office Chair,Furniture,2,180,Casablanca
+473,2026-03-02,Mouse,Accessories,5,25,Agadir
+474,2026-09-02,Headphones,Accessories,5,80,Rabat
+475,2026-08-12,Webcam,Accessories,1,60,Casablanca
+476,2026-01-09,Laptop,Electronics,5,750,Marrakech
+477,2026-06-28,Mouse,Accessories,2,25,Fes
+478,2026-02-08,Tablet,Electronics,2,300,Marrakech
+479,2026-04-18,Laptop,Electronics,5,750,Agadir
+480,2026-02-25,Smartphone,Electronics,1,500,Marrakech
+481,2026-02-04,Monitor,Electronics,5,220,Casablanca
+482,2026-06-08,Monitor,Electronics,3,220,Rabat
+483,2026-07-09,Smartphone,Electronics,3,500,Tangier
+484,2026-03-13,Webcam,Accessories,1,60,Tangier
+485,2026-07-17,Monitor,Electronics,1,220,Marrakech
+486,2026-08-06,Laptop,Electronics,5,750,Fes
+487,2026-08-31,Smartphone,Electronics,5,500,Casablanca
+488,2026-01-14,Office Chair,Furniture,5,180,Agadir
+489,2026-09-06,Office Chair,Furniture,2,180,Casablanca
+490,2026-03-21,Laptop,Electronics,2,750,Agadir
+491,2026-02-22,Webcam,Accessories,4,60,Tangier
+492,2026-07-21,Headphones,Accessories,4,80,Marrakech
+493,2026-09-04,Laptop,Electronics,5,750,Fes
+494,2026-07-10,Headphones,Accessories,2,80,Casablanca
+495,2026-07-03,Laptop,Electronics,4,750,Marrakech
+496,2026-03-01,Laptop,Electronics,4,750,Casablanca
+497,2026-08-11,Laptop,Electronics,4,750,Agadir
+498,2026-03-05,Laptop,Electronics,1,750,Tangier
+499,2026-03-09,Webcam,Accessories,2,60,Oujda
+500,2026-08-04,Webcam,Accessories,2,60,Oujda
+501,2026-08-07,Tablet,Electronics,2,300,Casablanca
+502,2026-07-18,Smartphone,Electronics,4,500,Casablanca
+503,2026-03-24,Laptop,Electronics,2,750,Rabat
+504,2026-07-19,Mouse,Accessories,2,25,Marrakech
+505,2026-07-27,Tablet,Electronics,4,300,Tangier
+506,2026-07-10,Monitor,Electronics,1,220,Oujda
+507,2026-05-01,Mouse,Accessories,5,25,Tangier
+508,2026-07-06,Webcam,Accessories,1,60,Fes
+509,2026-06-19,Mouse,Accessories,4,25,Agadir
+510,2026-07-28,Webcam,Accessories,4,60,Oujda
+511,2026-04-17,Smartphone,Electronics,5,500,Casablanca
+512,2026-06-08,Headphones,Accessories,3,80,Casablanca
+513,2026-02-20,Monitor,Electronics,2,220,Casablanca
+514,2026-04-28,Desk,Furniture,2,250,Casablanca
+515,2026-06-24,Smartphone,Electronics,5,500,Fes
+516,2026-09-25,Monitor,Electronics,1,220,Rabat
+517,2026-03-04,Smartphone,Electronics,5,500,Casablanca
+518,2026-01-22,Desk,Furniture,4,250,Agadir
+519,2026-08-20,Desk,Furniture,4,250,Fes
+520,2026-06-10,Desk,Furniture,1,250,Agadir
+521,2026-03-22,Webcam,Accessories,1,60,Marrakech
+522,2026-05-04,Laptop,Electronics,4,750,Fes
+523,2026-04-30,Desk,Furniture,5,250,Casablanca
+524,2026-05-07,Office Chair,Furniture,1,180,Fes
+525,2026-02-10,Webcam,Accessories,3,60,Rabat
+526,2026-01-10,Office Chair,Furniture,3,180,Marrakech
+527,2026-07-21,Tablet,Electronics,2,300,Rabat
+528,2026-02-07,Keyboard,Accessories,1,45,Oujda
+529,2026-03-08,Headphones,Accessories,1,80,Oujda
+530,2026-08-20,Laptop,Electronics,2,750,Marrakech
+531,2026-03-13,Office Chair,Furniture,4,180,Marrakech
+532,2026-07-21,Headphones,Accessories,2,80,Marrakech
+533,2026-05-13,Webcam,Accessories,3,60,Rabat
+534,2026-03-30,Monitor,Electronics,1,220,Rabat
+535,2026-05-24,Tablet,Electronics,3,300,Tangier
+536,2026-08-29,Laptop,Electronics,3,750,Marrakech
+537,2026-03-10,Webcam,Accessories,4,60,Tangier
+538,2026-06-07,Office Chair,Furniture,2,180,Agadir
+539,2026-07-01,Smartphone,Electronics,2,500,Agadir
+540,2026-09-17,Smartphone,Electronics,4,500,Agadir
+541,2026-07-20,Monitor,Electronics,4,220,Tangier
+542,2026-07-19,Keyboard,Accessories,3,45,Oujda
+543,2026-06-16,Laptop,Electronics,5,750,Oujda
+544,2026-01-24,Smartphone,Electronics,5,500,Tangier
+545,2026-02-05,Office Chair,Furniture,5,180,Oujda
+546,2026-07-07,Webcam,Accessories,1,60,Marrakech
+547,2026-09-19,Smartphone,Electronics,3,500,Casablanca
+548,2026-08-04,Desk,Furniture,1,250,Fes
+549,2026-08-18,Office Chair,Furniture,1,180,Marrakech
+550,2026-05-24,Monitor,Electronics,1,220,Rabat
+551,2026-10-01,Laptop,Electronics,5,750,Tangier
+552,2026-03-30,Smartphone,Electronics,5,500,Tangier
+553,2026-03-08,Smartphone,Electronics,2,500,Oujda
+554,2026-02-23,Desk,Furniture,3,250,Rabat
+555,2026-06-14,Laptop,Electronics,3,750,Agadir
+556,2026-08-28,Smartphone,Electronics,4,500,Fes
+557,2026-03-27,Keyboard,Accessories,2,45,Agadir
+558,2026-03-07,Laptop,Electronics,3,750,Agadir
+559,2026-07-15,Office Chair,Furniture,5,180,Tangier
+560,2026-06-19,Smartphone,Electronics,1,500,Agadir
+561,2026-04-20,Office Chair,Furniture,5,180,Tangier
+562,2026-03-13,Keyboard,Accessories,5,45,Marrakech
+563,2026-09-06,Mouse,Accessories,4,25,Casablanca
+564,2026-09-09,Desk,Furniture,4,250,Agadir
+565,2026-03-18,Smartphone,Electronics,1,500,Tangier
+566,2026-08-16,Headphones,Accessories,3,80,Tangier
+567,2026-01-08,Smartphone,Electronics,1,500,Rabat
+568,2026-05-10,Headphones,Accessories,4,80,Rabat
+569,2026-05-27,Monitor,Electronics,2,220,Casablanca
+570,2026-09-15,Mouse,Accessories,2,25,Fes
+571,2026-07-17,Laptop,Electronics,2,750,Casablanca
+572,2026-01-12,Smartphone,Electronics,3,500,Casablanca
+573,2026-07-09,Monitor,Electronics,3,220,Marrakech
+574,2026-05-20,Office Chair,Furniture,3,180,Tangier
+575,2026-01-12,Monitor,Electronics,2,220,Fes
+576,2026-03-18,Headphones,Accessories,5,80,Rabat
+577,2026-07-23,Tablet,Electronics,4,300,Oujda
+578,2026-04-30,Headphones,Accessories,2,80,Fes
+579,2026-08-27,Keyboard,Accessories,2,45,Tangier
+580,2026-09-21,Office Chair,Furniture,2,180,Marrakech
+581,2026-03-26,Laptop,Electronics,4,750,Fes
+582,2026-04-01,Smartphone,Electronics,3,500,Fes
+583,2026-05-22,Headphones,Accessories,4,80,Oujda
+584,2026-07-05,Headphones,Accessories,2,80,Marrakech
+585,2026-03-21,Webcam,Accessories,4,60,Agadir
+586,2026-02-07,Desk,Furniture,1,250,Rabat
+587,2026-07-27,Keyboard,Accessories,4,45,Fes
+588,2026-01-23,Webcam,Accessories,3,60,Fes
+589,2026-05-16,Webcam,Accessories,1,60,Agadir
+590,2026-07-13,Office Chair,Furniture,5,180,Marrakech
+591,2026-02-24,Laptop,Electronics,2,750,Tangier
+592,2026-05-22,Desk,Furniture,4,250,Oujda
+593,2026-02-10,Keyboard,Accessories,2,45,Tangier
+594,2026-06-22,Tablet,Electronics,3,300,Tangier
+595,2026-01-21,Headphones,Accessories,5,80,Rabat
+596,2026-09-22,Webcam,Accessories,2,60,Rabat
+597,2026-09-04,Mouse,Accessories,4,25,Oujda
+598,2026-04-25,Monitor,Electronics,3,220,Agadir
+599,2026-04-24,Tablet,Electronics,5,300,Agadir
+600,2026-08-15,Mouse,Accessories,5,25,Marrakech
+601,2026-07-27,Tablet,Electronics,1,300,Tangier
+602,2026-07-30,Monitor,Electronics,3,220,Oujda
+603,2026-06-26,Tablet,Electronics,5,300,Marrakech
+604,2026-06-03,Headphones,Accessories,4,80,Agadir
+605,2026-01-14,Laptop,Electronics,2,750,Rabat
+606,2026-08-26,Webcam,Accessories,3,60,Agadir
+607,2026-02-19,Desk,Furniture,3,250,Fes
+608,2026-02-18,Office Chair,Furniture,4,180,Marrakech
+609,2026-03-28,Office Chair,Furniture,2,180,Marrakech
+610,2026-08-27,Desk,Furniture,5,250,Marrakech
+611,2026-08-08,Webcam,Accessories,3,60,Tangier
+612,2026-02-20,Monitor,Electronics,3,220,Casablanca
+613,2026-08-19,Headphones,Accessories,5,80,Oujda
+614,2026-06-03,Mouse,Accessories,5,25,Rabat
+615,2026-02-28,Keyboard,Accessories,1,45,Rabat
+616,2026-06-17,Monitor,Electronics,5,220,Rabat
+617,2026-07-03,Desk,Furniture,2,250,Fes
+618,2026-02-02,Smartphone,Electronics,4,500,Casablanca
+619,2026-05-18,Webcam,Accessories,1,60,Oujda
+620,2026-02-02,Webcam,Accessories,5,60,Oujda
+621,2026-05-28,Office Chair,Furniture,2,180,Fes
+622,2026-02-16,Monitor,Electronics,1,220,Rabat
+623,2026-06-17,Mouse,Accessories,5,25,Oujda
+624,2026-10-01,Laptop,Electronics,1,750,Marrakech
+625,2026-08-02,Smartphone,Electronics,4,500,Tangier
+626,2026-03-24,Monitor,Electronics,4,220,Oujda
+627,2026-02-19,Desk,Furniture,5,250,Oujda
+628,2026-09-26,Keyboard,Accessories,3,45,Fes
+629,2026-06-11,Mouse,Accessories,1,25,Rabat
+630,2026-04-23,Keyboard,Accessories,4,45,Tangier
+631,2026-06-27,Office Chair,Furniture,3,180,Rabat
+632,2026-09-22,Keyboard,Accessories,3,45,Tangier
+633,2026-09-27,Office Chair,Furniture,3,180,Fes
+634,2026-09-30,Tablet,Electronics,4,300,Oujda
+635,2026-09-24,Keyboard,Accessories,5,45,Casablanca
+636,2026-05-21,Webcam,Accessories,1,60,Casablanca
+637,2026-08-13,Keyboard,Accessories,1,45,Agadir
+638,2026-03-20,Webcam,Accessories,1,60,Agadir
+639,2026-06-28,Desk,Furniture,1,250,Fes
+640,2026-01-26,Keyboard,Accessories,3,45,Fes
+641,2026-03-22,Office Chair,Furniture,3,180,Tangier
+642,2026-08-12,Headphones,Accessories,5,80,Casablanca
+643,2026-06-25,Desk,Furniture,4,250,Marrakech
+644,2026-01-28,Webcam,Accessories,3,60,Oujda
+645,2026-08-24,Monitor,Electronics,3,220,Agadir
+646,2026-02-09,Webcam,Accessories,4,60,Fes
+647,2026-09-07,Keyboard,Accessories,5,45,Rabat
+648,2026-03-18,Smartphone,Electronics,1,500,Tangier
+649,2026-07-12,Keyboard,Accessories,5,45,Marrakech
+650,2026-08-29,Monitor,Electronics,4,220,Rabat
+651,2026-05-22,Laptop,Electronics,1,750,Marrakech
+652,2026-06-19,Smartphone,Electronics,1,500,Rabat
+653,2026-09-14,Keyboard,Accessories,2,45,Oujda
+654,2026-04-20,Desk,Furniture,5,250,Tangier
+655,2026-06-02,Desk,Furniture,2,250,Tangier
+656,2026-05-18,Mouse,Accessories,2,25,Agadir
+657,2026-08-11,Keyboard,Accessories,2,45,Casablanca
+658,2026-06-07,Webcam,Accessories,3,60,Rabat
+659,2026-02-16,Keyboard,Accessories,3,45,Oujda
+660,2026-04-24,Desk,Furniture,2,250,Fes
+661,2026-02-11,Smartphone,Electronics,5,500,Marrakech
+662,2026-03-15,Webcam,Accessories,2,60,Rabat
+663,2026-09-29,Smartphone,Electronics,2,500,Fes
+664,2026-07-01,Desk,Furniture,4,250,Rabat
+665,2026-05-02,Headphones,Accessories,4,80,Agadir
+666,2026-07-30,Smartphone,Electronics,5,500,Tangier
+667,2026-08-01,Webcam,Accessories,2,60,Tangier
+668,2026-09-29,Webcam,Accessories,3,60,Marrakech
+669,2026-03-22,Desk,Furniture,5,250,Rabat
+670,2026-02-19,Laptop,Electronics,5,750,Tangier
+671,2026-03-23,Office Chair,Furniture,2,180,Rabat
+672,2026-02-05,Monitor,Electronics,2,220,Casablanca
+673,2026-08-04,Headphones,Accessories,3,80,Agadir
+674,2026-08-30,Laptop,Electronics,3,750,Marrakech
+675,2026-05-06,Laptop,Electronics,3,750,Marrakech
+676,2026-03-18,Desk,Furniture,5,250,Agadir
+677,2026-05-15,Laptop,Electronics,5,750,Fes
+678,2026-02-15,Tablet,Electronics,3,300,Casablanca
+679,2026-07-28,Keyboard,Accessories,3,45,Rabat
+680,2026-04-24,Mouse,Accessories,4,25,Marrakech
+681,2026-02-17,Smartphone,Electronics,2,500,Rabat
+682,2026-03-22,Monitor,Electronics,1,220,Oujda
+683,2026-02-21,Headphones,Accessories,4,80,Oujda
+684,2026-03-05,Smartphone,Electronics,4,500,Casablanca
+685,2026-06-17,Headphones,Accessories,4,80,Marrakech
+686,2026-06-26,Tablet,Electronics,4,300,Marrakech
+687,2026-02-21,Office Chair,Furniture,1,180,Marrakech
+688,2026-03-10,Monitor,Electronics,5,220,Casablanca
+689,2026-04-04,Office Chair,Furniture,2,180,Oujda
+690,2026-06-16,Headphones,Accessories,5,80,Marrakech
+691,2026-07-04,Desk,Furniture,4,250,Marrakech
+692,2026-08-25,Laptop,Electronics,1,750,Fes
+693,2026-05-20,Office Chair,Furniture,5,180,Oujda
+694,2026-04-13,Laptop,Electronics,4,750,Oujda
+695,2026-03-25,Monitor,Electronics,1,220,Oujda
+696,2026-02-16,Smartphone,Electronics,3,500,Marrakech
+697,2026-09-14,Monitor,Electronics,1,220,Tangier
+698,2026-03-03,Laptop,Electronics,1,750,Marrakech
+699,2026-09-19,Tablet,Electronics,5,300,Oujda
+700,2026-08-18,Mouse,Accessories,1,25,Fes
+701,2026-05-16,Keyboard,Accessories,2,45,Fes
+702,2026-05-29,Keyboard,Accessories,5,45,Rabat
+703,2026-09-21,Smartphone,Electronics,3,500,Fes
+704,2026-07-30,Headphones,Accessories,4,80,Tangier
+705,2026-02-16,Headphones,Accessories,3,80,Marrakech
+706,2026-01-27,Headphones,Accessories,2,80,Agadir
+707,2026-05-17,Office Chair,Furniture,5,180,Rabat
+708,2026-01-14,Tablet,Electronics,4,300,Fes
+709,2026-02-05,Tablet,Electronics,3,300,Casablanca
+710,2026-07-08,Monitor,Electronics,3,220,Marrakech
+711,2026-01-28,Mouse,Accessories,2,25,Casablanca
+712,2026-07-03,Headphones,Accessories,4,80,Fes
+713,2026-09-29,Office Chair,Furniture,4,180,Rabat
+714,2026-03-03,Tablet,Electronics,3,300,Oujda
+715,2026-04-09,Headphones,Accessories,1,80,Fes
+716,2026-05-17,Webcam,Accessories,2,60,Tangier
+717,2026-01-17,Tablet,Electronics,2,300,Agadir
+718,2026-03-10,Webcam,Accessories,4,60,Tangier
+719,2026-09-07,Laptop,Electronics,4,750,Tangier
+720,2026-07-14,Webcam,Accessories,4,60,Agadir
+721,2026-05-13,Laptop,Electronics,5,750,Oujda
+722,2026-09-04,Office Chair,Furniture,4,180,Marrakech
+723,2026-01-19,Desk,Furniture,2,250,Fes
+724,2026-04-03,Smartphone,Electronics,4,500,Oujda
+725,2026-05-22,Monitor,Electronics,1,220,Agadir
+726,2026-02-28,Desk,Furniture,1,250,Tangier
+727,2026-07-16,Laptop,Electronics,3,750,Fes
+728,2026-07-09,Office Chair,Furniture,4,180,Rabat
+729,2026-01-09,Office Chair,Furniture,4,180,Marrakech
+730,2026-06-27,Webcam,Accessories,5,60,Marrakech
+731,2026-03-17,Mouse,Accessories,1,25,Agadir
+732,2026-06-05,Smartphone,Electronics,5,500,Rabat
+733,2026-08-05,Keyboard,Accessories,5,45,Marrakech
+734,2026-02-15,Tablet,Electronics,4,300,Fes
+735,2026-09-26,Monitor,Electronics,3,220,Agadir
+736,2026-01-06,Monitor,Electronics,5,220,Agadir
+737,2026-03-20,Tablet,Electronics,3,300,Tangier
+738,2026-09-07,Keyboard,Accessories,5,45,Casablanca
+739,2026-07-11,Tablet,Electronics,1,300,Marrakech
+740,2026-08-23,Mouse,Accessories,2,25,Rabat
+741,2026-07-18,Laptop,Electronics,1,750,Rabat
+742,2026-01-04,Smartphone,Electronics,2,500,Marrakech
+743,2026-02-10,Office Chair,Furniture,2,180,Rabat
+744,2026-09-11,Smartphone,Electronics,4,500,Rabat
+745,2026-03-26,Headphones,Accessories,3,80,Casablanca
+746,2026-09-18,Webcam,Accessories,2,60,Agadir
+747,2026-08-18,Mouse,Accessories,2,25,Rabat
+748,2026-05-31,Webcam,Accessories,1,60,Agadir
+749,2026-05-19,Smartphone,Electronics,4,500,Oujda
+750,2026-06-11,Smartphone,Electronics,5,500,Casablanca
+751,2026-04-16,Desk,Furniture,2,250,Tangier
+752,2026-05-18,Office Chair,Furniture,3,180,Marrakech
+753,2026-04-02,Webcam,Accessories,1,60,Fes
+754,2026-03-08,Monitor,Electronics,5,220,Agadir
+755,2026-06-27,Desk,Furniture,5,250,Agadir
+756,2026-06-17,Office Chair,Furniture,3,180,Fes
+757,2026-09-28,Office Chair,Furniture,2,180,Casablanca
+758,2026-02-07,Mouse,Accessories,4,25,Casablanca
+759,2026-04-23,Monitor,Electronics,1,220,Oujda
+760,2026-01-10,Mouse,Accessories,2,25,Fes
+761,2026-02-07,Monitor,Electronics,4,220,Marrakech
+762,2026-06-26,Smartphone,Electronics,5,500,Rabat
+763,2026-03-20,Desk,Furniture,5,250,Casablanca
+764,2026-10-01,Keyboard,Accessories,1,45,Casablanca
+765,2026-01-24,Office Chair,Furniture,1,180,Tangier
+766,2026-03-29,Office Chair,Furniture,4,180,Rabat
+767,2026-01-29,Laptop,Electronics,4,750,Rabat
+768,2026-06-11,Webcam,Accessories,1,60,Rabat
+769,2026-01-14,Laptop,Electronics,5,750,Marrakech
+770,2026-04-22,Tablet,Electronics,3,300,Casablanca
+771,2026-03-25,Webcam,Accessories,4,60,Rabat
+772,2026-05-06,Tablet,Electronics,5,300,Marrakech
+773,2026-07-08,Mouse,Accessories,4,25,Casablanca
+774,2026-04-23,Laptop,Electronics,5,750,Agadir
+775,2026-03-10,Headphones,Accessories,2,80,Casablanca
+776,2026-06-15,Smartphone,Electronics,1,500,Marrakech
+777,2026-03-26,Tablet,Electronics,1,300,Casablanca
+778,2026-01-25,Monitor,Electronics,5,220,Tangier
+779,2026-01-25,Webcam,Accessories,1,60,Agadir
+780,2026-07-16,Office Chair,Furniture,2,180,Casablanca
+781,2026-01-19,Laptop,Electronics,2,750,Casablanca
+782,2026-04-21,Desk,Furniture,3,250,Casablanca
+783,2026-05-29,Webcam,Accessories,1,60,Marrakech
+784,2026-06-07,Webcam,Accessories,1,60,Casablanca
+785,2026-04-01,Mouse,Accessories,3,25,Rabat
+786,2026-06-28,Keyboard,Accessories,1,45,Rabat
+787,2026-03-19,Monitor,Electronics,1,220,Casablanca
+788,2026-01-25,Monitor,Electronics,5,220,Tangier
+789,2026-08-14,Headphones,Accessories,5,80,Marrakech
+790,2026-07-27,Smartphone,Electronics,3,500,Oujda
+791,2026-01-22,Office Chair,Furniture,5,180,Tangier
+792,2026-04-21,Smartphone,Electronics,4,500,Agadir
+793,2026-01-29,Laptop,Electronics,3,750,Oujda
+794,2026-05-25,Tablet,Electronics,5,300,Tangier
+795,2026-06-03,Headphones,Accessories,4,80,Tangier
+796,2026-01-19,Keyboard,Accessories,4,45,Marrakech
+797,2026-06-22,Laptop,Electronics,1,750,Marrakech
+798,2026-02-25,Headphones,Accessories,4,80,Rabat
+799,2026-04-05,Laptop,Electronics,3,750,Marrakech
+800,2026-03-11,Smartphone,Electronics,4,500,Agadir
+801,2026-09-23,Laptop,Electronics,2,750,Oujda
+802,2026-08-29,Laptop,Electronics,5,750,Tangier
+803,2026-07-12,Mouse,Accessories,1,25,Fes
+804,2026-09-26,Tablet,Electronics,3,300,Oujda
+805,2026-02-21,Webcam,Accessories,5,60,Casablanca
+806,2026-01-16,Laptop,Electronics,1,750,Agadir
+807,2026-05-15,Headphones,Accessories,4,80,Casablanca
+808,2026-05-30,Headphones,Accessories,2,80,Marrakech
+809,2026-04-23,Headphones,Accessories,3,80,Fes
+810,2026-04-01,Tablet,Electronics,3,300,Agadir
+811,2026-01-26,Headphones,Accessories,1,80,Agadir
+812,2026-09-06,Mouse,Accessories,4,25,Marrakech
+813,2026-09-10,Desk,Furniture,3,250,Oujda
+814,2026-08-31,Office Chair,Furniture,5,180,Agadir
+815,2026-06-19,Tablet,Electronics,5,300,Agadir
+816,2026-08-31,Mouse,Accessories,4,25,Agadir
+817,2026-06-24,Desk,Furniture,5,250,Oujda
+818,2026-03-03,Mouse,Accessories,5,25,Fes
+819,2026-06-05,Headphones,Accessories,2,80,Casablanca
+820,2026-09-26,Monitor,Electronics,3,220,Agadir
+821,2026-09-30,Monitor,Electronics,5,220,Oujda
+822,2026-09-12,Webcam,Accessories,5,60,Fes
+823,2026-02-20,Laptop,Electronics,1,750,Oujda
+824,2026-10-01,Keyboard,Accessories,4,45,Casablanca
+825,2026-05-13,Mouse,Accessories,2,25,Tangier
+826,2026-09-02,Office Chair,Furniture,3,180,Tangier
+827,2026-02-09,Desk,Furniture,3,250,Fes
+828,2026-07-02,Laptop,Electronics,3,750,Tangier
+829,2026-09-25,Mouse,Accessories,3,25,Rabat
+830,2026-05-01,Office Chair,Furniture,1,180,Casablanca
+831,2026-02-05,Tablet,Electronics,3,300,Casablanca
+832,2026-06-13,Monitor,Electronics,4,220,Tangier
+833,2026-02-20,Laptop,Electronics,3,750,Oujda
+834,2026-05-19,Mouse,Accessories,1,25,Casablanca
+835,2026-07-13,Smartphone,Electronics,2,500,Rabat
+836,2026-04-07,Desk,Furniture,4,250,Agadir
+837,2026-03-28,Keyboard,Accessories,1,45,Fes
+838,2026-02-28,Monitor,Electronics,1,220,Rabat
+839,2026-06-13,Desk,Furniture,2,250,Rabat
+840,2026-06-22,Keyboard,Accessories,2,45,Marrakech
+841,2026-04-24,Desk,Furniture,1,250,Rabat
+842,2026-04-02,Mouse,Accessories,1,25,Tangier
+843,2026-03-31,Mouse,Accessories,5,25,Rabat
+844,2026-03-02,Smartphone,Electronics,1,500,Tangier
+845,2026-05-13,Mouse,Accessories,4,25,Marrakech
+846,2026-07-22,Laptop,Electronics,5,750,Tangier
+847,2026-03-12,Keyboard,Accessories,2,45,Casablanca
+848,2026-08-14,Keyboard,Accessories,1,45,Marrakech
+849,2026-07-08,Monitor,Electronics,4,220,Tangier
+850,2026-09-23,Monitor,Electronics,5,220,Agadir
+851,2026-05-19,Tablet,Electronics,4,300,Oujda
+852,2026-02-28,Headphones,Accessories,4,80,Oujda
+853,2026-08-05,Mouse,Accessories,5,25,Marrakech
+854,2026-04-15,Keyboard,Accessories,5,45,Fes
+855,2026-07-20,Tablet,Electronics,3,300,Oujda
+856,2026-03-16,Webcam,Accessories,2,60,Casablanca
+857,2026-03-01,Webcam,Accessories,3,60,Rabat
+858,2026-09-14,Mouse,Accessories,1,25,Rabat
+859,2026-07-19,Keyboard,Accessories,3,45,Agadir
+860,2026-01-31,Monitor,Electronics,1,220,Fes
+861,2026-08-12,Mouse,Accessories,1,25,Casablanca
+862,2026-01-12,Webcam,Accessories,1,60,Marrakech
+863,2026-07-19,Tablet,Electronics,1,300,Casablanca
+864,2026-06-16,Mouse,Accessories,2,25,Marrakech
+865,2026-03-21,Smartphone,Electronics,4,500,Casablanca
+866,2026-01-17,Smartphone,Electronics,1,500,Fes
+867,2026-06-13,Office Chair,Furniture,3,180,Fes
+868,2026-06-24,Desk,Furniture,3,250,Agadir
+869,2026-07-31,Office Chair,Furniture,1,180,Tangier
+870,2026-07-17,Monitor,Electronics,1,220,Fes
+871,2026-05-06,Laptop,Electronics,3,750,Tangier
+872,2026-01-13,Mouse,Accessories,2,25,Tangier
+873,2026-03-28,Monitor,Electronics,1,220,Rabat
+874,2026-08-30,Desk,Furniture,3,250,Marrakech
+875,2026-08-05,Webcam,Accessories,4,60,Oujda
+876,2026-09-18,Keyboard,Accessories,5,45,Oujda
+877,2026-04-07,Keyboard,Accessories,5,45,Fes
+878,2026-06-02,Mouse,Accessories,3,25,Tangier
+879,2026-08-14,Webcam,Accessories,2,60,Agadir
+880,2026-03-31,Tablet,Electronics,4,300,Oujda
+881,2026-09-24,Keyboard,Accessories,1,45,Oujda
+882,2026-03-11,Webcam,Accessories,5,60,Marrakech
+883,2026-08-11,Monitor,Electronics,1,220,Tangier
+884,2026-02-20,Webcam,Accessories,1,60,Agadir
+885,2026-01-28,Smartphone,Electronics,5,500,Oujda
+886,2026-09-11,Office Chair,Furniture,1,180,Agadir
+887,2026-02-11,Keyboard,Accessories,3,45,Oujda
+888,2026-08-03,Smartphone,Electronics,1,500,Tangier
+889,2026-09-08,Laptop,Electronics,4,750,Rabat
+890,2026-03-14,Laptop,Electronics,1,750,Tangier
+891,2026-02-17,Keyboard,Accessories,5,45,Marrakech
+892,2026-04-14,Desk,Furniture,2,250,Casablanca
+893,2026-05-17,Smartphone,Electronics,1,500,Tangier
+894,2026-02-15,Webcam,Accessories,5,60,Fes
+895,2026-07-05,Smartphone,Electronics,3,500,Oujda
+896,2026-03-09,Laptop,Electronics,2,750,Casablanca
+897,2026-05-03,Smartphone,Electronics,5,500,Agadir
+898,2026-07-08,Tablet,Electronics,4,300,Casablanca
+899,2026-02-02,Office Chair,Furniture,1,180,Fes
+900,2026-07-25,Headphones,Accessories,4,80,Rabat
+901,2026-01-12,Mouse,Accessories,1,25,Oujda
+902,2026-01-17,Smartphone,Electronics,2,500,Rabat
+903,2026-09-04,Desk,Furniture,4,250,Casablanca
+904,2026-06-03,Mouse,Accessories,4,25,Oujda
+905,2026-03-04,Monitor,Electronics,5,220,Rabat
+906,2026-09-12,Monitor,Electronics,1,220,Agadir
+907,2026-01-11,Monitor,Electronics,1,220,Marrakech
+908,2026-06-24,Mouse,Accessories,5,25,Marrakech
+909,2026-09-05,Laptop,Electronics,5,750,Marrakech
+910,2026-06-04,Keyboard,Accessories,5,45,Tangier
+911,2026-09-05,Laptop,Electronics,5,750,Rabat
+912,2026-10-01,Headphones,Accessories,5,80,Agadir
+913,2026-04-27,Keyboard,Accessories,2,45,Marrakech
+914,2026-01-26,Monitor,Electronics,3,220,Casablanca
+915,2026-05-27,Desk,Furniture,1,250,Rabat
+916,2026-01-22,Smartphone,Electronics,4,500,Fes
+917,2026-07-30,Desk,Furniture,2,250,Tangier
+918,2026-08-28,Webcam,Accessories,4,60,Tangier
+919,2026-03-21,Office Chair,Furniture,1,180,Fes
+920,2026-02-04,Laptop,Electronics,2,750,Tangier
+921,2026-07-05,Tablet,Electronics,2,300,Marrakech
+922,2026-01-22,Tablet,Electronics,4,300,Marrakech
+923,2026-09-18,Office Chair,Furniture,5,180,Tangier
+924,2026-06-28,Desk,Furniture,2,250,Casablanca
+925,2026-08-17,Keyboard,Accessories,1,45,Tangier
+926,2026-03-31,Webcam,Accessories,5,60,Fes
+927,2026-09-05,Headphones,Accessories,3,80,Casablanca
+928,2026-01-09,Laptop,Electronics,5,750,Tangier
+929,2026-02-05,Laptop,Electronics,4,750,Tangier
+930,2026-05-18,Desk,Furniture,4,250,Agadir
+931,2026-02-13,Keyboard,Accessories,4,45,Casablanca
+932,2026-05-28,Tablet,Electronics,2,300,Marrakech
+933,2026-08-19,Tablet,Electronics,1,300,Casablanca
+934,2026-09-01,Mouse,Accessories,3,25,Fes
+935,2026-04-14,Smartphone,Electronics,3,500,Oujda
+936,2026-09-06,Smartphone,Electronics,3,500,Rabat
+937,2026-06-06,Headphones,Accessories,4,80,Agadir
+938,2026-03-28,Webcam,Accessories,1,60,Marrakech
+939,2026-06-02,Keyboard,Accessories,4,45,Casablanca
+940,2026-09-16,Webcam,Accessories,4,60,Marrakech
+941,2026-01-27,Desk,Furniture,1,250,Marrakech
+942,2026-01-24,Mouse,Accessories,5,25,Casablanca
+943,2026-09-17,Webcam,Accessories,4,60,Fes
+944,2026-05-08,Headphones,Accessories,4,80,Fes
+945,2026-03-16,Office Chair,Furniture,3,180,Rabat
+946,2026-03-20,Laptop,Electronics,1,750,Marrakech
+947,2026-05-11,Keyboard,Accessories,3,45,Tangier
+948,2026-05-15,Desk,Furniture,2,250,Tangier
+949,2026-09-06,Mouse,Accessories,3,25,Casablanca
+950,2026-03-26,Headphones,Accessories,4,80,Marrakech
+951,2026-03-13,Tablet,Electronics,2,300,Marrakech
+952,2026-05-02,Smartphone,Electronics,1,500,Casablanca
+953,2026-05-11,Laptop,Electronics,4,750,Rabat
+954,2026-01-06,Office Chair,Furniture,4,180,Rabat
+955,2026-08-02,Headphones,Accessories,3,80,Marrakech
+956,2026-03-07,Keyboard,Accessories,4,45,Tangier
+957,2026-05-27,Desk,Furniture,2,250,Marrakech
+958,2026-03-07,Keyboard,Accessories,4,45,Oujda
+959,2026-05-07,Headphones,Accessories,2,80,Rabat
+960,2026-07-10,Headphones,Accessories,5,80,Marrakech
+961,2026-07-07,Desk,Furniture,2,250,Agadir
+962,2026-06-23,Headphones,Accessories,1,80,Casablanca
+963,2026-07-11,Tablet,Electronics,2,300,Oujda
+964,2026-02-01,Webcam,Accessories,5,60,Casablanca
+965,2026-03-29,Keyboard,Accessories,2,45,Marrakech
+966,2026-09-26,Mouse,Accessories,1,25,Oujda
+967,2026-09-09,Office Chair,Furniture,2,180,Marrakech
+968,2026-04-21,Smartphone,Electronics,2,500,Rabat
+969,2026-07-27,Headphones,Accessories,4,80,Tangier
+970,2026-09-18,Monitor,Electronics,1,220,Casablanca
+971,2026-06-13,Tablet,Electronics,4,300,Marrakech
+972,2026-09-10,Smartphone,Electronics,5,500,Agadir
+973,2026-04-08,Laptop,Electronics,3,750,Casablanca
+974,2026-07-22,Smartphone,Electronics,1,500,Fes
+975,2026-07-13,Smartphone,Electronics,2,500,Marrakech
+976,2026-07-01,Webcam,Accessories,1,60,Rabat
+977,2026-03-14,Headphones,Accessories,4,80,Tangier
+978,2026-05-20,Smartphone,Electronics,4,500,Rabat
+979,2026-04-07,Laptop,Electronics,2,750,Tangier
+980,2026-03-26,Desk,Furniture,2,250,Tangier
+981,2026-09-18,Laptop,Electronics,3,750,Marrakech
+982,2026-07-11,Webcam,Accessories,1,60,Rabat
+983,2026-05-16,Mouse,Accessories,2,25,Casablanca
+984,2026-07-26,Laptop,Electronics,4,750,Rabat
+985,2026-06-08,Mouse,Accessories,3,25,Rabat
+986,2026-08-30,Tablet,Electronics,2,300,Oujda
+987,2026-07-05,Monitor,Electronics,5,220,Agadir
+988,2026-06-04,Tablet,Electronics,2,300,Fes
+989,2026-06-21,Headphones,Accessories,2,80,Fes
+990,2026-02-20,Monitor,Electronics,2,220,Oujda
+991,2026-01-19,Webcam,Accessories,2,60,Marrakech
+992,2026-04-15,Laptop,Electronics,1,750,Fes
+993,2026-08-01,Monitor,Electronics,3,220,Oujda
+994,2026-02-21,Keyboard,Accessories,2,45,Oujda
+995,2026-06-27,Smartphone,Electronics,1,500,Casablanca
+996,2026-07-25,Laptop,Electronics,3,750,Agadir
+997,2026-01-05,Desk,Furniture,5,250,Agadir
+998,2026-03-17,Desk,Furniture,3,250,Casablanca
+999,2026-01-05,Monitor,Electronics,4,220,Casablanca
+1000,2026-02-21,Tablet,Electronics,3,300,Marrakech
